@@ -10,7 +10,7 @@ import {
 import Autoplay from "embla-carousel-autoplay";
 import Image from "next/image";
 import animated from "/public/animated.jpg";
-import cv from "/public/resume.jpg";
+import cv from "/public/cv.jpg";
 import amazon from "/public/amazon.jpg";
 import login from "/public/login-page.jpg";
 import uni from "/public/university-management.png";
